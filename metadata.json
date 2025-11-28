@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DuoMode Music Tools",
+  "description": "A dual-mode music utility (Metronome & Tuner) featuring Standalone (Local JS) and Connected (Bluetooth/STM32) modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
